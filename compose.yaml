@@ -2,6 +2,7 @@ volumes:
   NEXTCLOUD_DB:
   NEXTCLOUD_APP:
   NEXTCLOUD_DATA:
+  NEXTCLOUD_DOC:
   document_log:
 
 services:
